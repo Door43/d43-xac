@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xac:home|Door43 (xac)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xac|d43-xac repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xac/archive/master.zip|d43-xac.zip]]
+
+**Recent Changes**
+{{changes>ns = xac}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xac|Ethnologue data]]
+
